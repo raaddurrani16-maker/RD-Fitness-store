@@ -1,0 +1,6 @@
+{
+  "name": "RD Fitness - Premium Gym Supplements & Athletic Wear",
+  "description": "Pakistan's premier fitness supplements and gym clothing brand. Complete e-commerce store with COD, JazzCash, Easypaisa, admin dashboard, order tracking, and live catalog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
